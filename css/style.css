@@ -6,6 +6,10 @@
     font-weight: bold;
 }
 
+html {
+    scroll-behavior: smooth;
+  }
+
 /* codici per il nav */
 
 nav{
