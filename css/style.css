@@ -2,6 +2,8 @@
 	margin:0;
 	padding: 0;
 	box-sizing: border-box;
+    font-family: 'Rubik Mono One', sans-serif;
+    font-weight: bold;
 }
 
 nav{
@@ -40,7 +42,7 @@ a:hover{
 .box{
     text-transform: uppercase;
     text-align: center;
-    font-size: 5vh;
+    font-size: 7vh;
     color: #ffff00;
 	position: absolute;
 	top: 50%;
@@ -53,7 +55,7 @@ a:hover{
 }
 
 img{
-    width: 500px;
+    width: 600px;
 }
 
 #red{
